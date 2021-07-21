@@ -11,7 +11,7 @@ in a private subnet
 
 ### SSH Tunnel to AWS RDS DB Instance ###
 
-![DB-instance1](https://raw.githubusercontent.com/lethompson/export-aws-rds-snapshot-s3/9e01a366abcf612e1f68461c0878ef793b335288/img/DB_instance_Creation3.png)
+![DB-instance1](DB_instance_Creation3.png)
 
 #### Step 1: Deploy AWS RDS instance ####
 
