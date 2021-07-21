@@ -11,7 +11,7 @@ in a private subnet
 
 ### SSH Tunnel to AWS RDS DB Instance ###
 
-![DB-instance1](DB_instance_Creation3.png)
+![DB-instance1](/img/DB_instance_Creation3.png?raw=True)
 
 #### Step 1: Deploy AWS RDS instance ####
 
